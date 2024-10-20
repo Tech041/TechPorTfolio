@@ -163,12 +163,12 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Dateme",
+    name: "Orient",
     description:
-      "Dateme is a web dating application that allows users from different countries or continent to find love, make friends and meet new people. It makes it easier to find soul mate ",
+      "Orient is a healthcare managementgo system that helps a healthcare facility to efficiently manage and respond  to patients needs.",
     tags: [
       {
-        name: "react",
+        name: "Next",
         color: "blue-text-gradient",
       },
       {
@@ -182,7 +182,7 @@ const projects = [
     ],
     image: dateme,
     source_code_link: "",
-    live_demo_link: "http://dateme.onrender.com",
+    live_demo_link: "https://hospitalmanagementadmindashboard.vercel.app/",
   },
   {
     name: "E-Shop",
