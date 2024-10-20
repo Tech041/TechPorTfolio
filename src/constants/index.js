@@ -145,18 +145,18 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "Isaac has proven to be one of the best, creative and passionate Software developers in Fiverr",
-    name: "James Kelvin",
+      "Nelson is  one of the  great and dedicated developers in Fiverr",
+    name: "Thony Stones",
     designation: "Digital Marketer",
-    company: "Headstart",
+    company: "Megabon",
     image: avatar,
   },
   {
     testimonial:
-      "After Isaac optimized our website, we gained more traffic by 70%. We can't thank him enough!",
-    name: "Mercy Dave",
+      "Am pleased with my last engagemnet with Nelson  in our last project, he is good in what he does",
+    name: "Gregg Broos",
     designation: "Product Manager",
-    company: "Osetty",
+    company: "Ivercom",
     image: avatar,
   },
 ];
