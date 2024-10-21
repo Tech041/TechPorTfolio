@@ -165,7 +165,7 @@ const projects = [
   {
     name: "Orient",
     description:
-      "Orient is a healthcare managementgo system that helps a healthcare facility to efficiently manage and respond  to patients needs.",
+      "Orient is a healthcare management system that helps a healthcare facility to efficiently manage and respond  to patients needs.",
     tags: [
       {
         name: "Next",
