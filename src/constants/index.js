@@ -15,15 +15,9 @@ import {
   git,
   figma,
   docker,
-  olliepickett,
-  onet,
-  starlight,
   dateme,
   mikeshop,
-  mikecollection,
   threejs,
-  josh,
-  mimi,
   avatar,
 } from "../assets";
 
@@ -165,18 +159,18 @@ const projects = [
   {
     name: "Orient",
     description:
-      "Orient is a healthcare management system that helps a healthcare facility to efficiently manage and respond  to patients needs.",
+      "Orient is a healthcare  management system that helps a healthcare facility to efficiently manage and respond  to patients needs.",
     tags: [
       {
         name: "Next",
         color: "blue-text-gradient",
       },
       {
-        name: "stripe",
+        name: "Typescript",
         color: "green-text-gradient",
       },
       {
-        name: "styled-components",
+        name: "Tailwind css",
         color: "pink-text-gradient",
       },
     ],
