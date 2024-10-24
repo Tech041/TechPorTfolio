@@ -13,9 +13,10 @@ import {
   nodejs,
   mongodb,
   git,
+  fitpulse,
   figma,
   docker,
-  dateme,
+  orient,
   mikeshop,
   threejs,
   avatar,
@@ -116,7 +117,7 @@ const experiences = [
     company_name: "Fiverr (Freelancing)",
     icon: "",
     iconBg: "#E6DEDD",
-    date: "Jan 2024 - Present",
+    date: "Aug 2023 - Present",
     points: [
       "Collaborated with UX/UI designers to translate design mockups into pixel-perfect, responsive interfaces, ensuring a consistent and visually appealing user experience across devices.",
       "Implemented server-side rendering (SSR) and static site generation (SSG) using Next.js, enhancing the application's performance and SEO capabilities",
@@ -128,7 +129,7 @@ const experiences = [
     company_name: "Upwork (Freelancing)",
     icon: "",
     iconBg: "#383E56",
-    date: "Jan 2024 - Present",
+    date: "Dec 2023 - Present",
     points: [
       "Developed and maintained various modules of a complex web application, employing React.js/Next.js and TypeScript for the frontend and consumed .Net, Django, Spring Boot and REST APIs  ",
       "Integrated third-party APIs and services to extend application functionalities, improving the overall user experience. ",
@@ -156,28 +157,7 @@ const testimonials = [
 ];
 
 const projects = [
-  {
-    name: "Orient",
-    description:
-      "Orient is a healthcare  management system where appointments with doctors and other healthcare personnels could me made.",
-    tags: [
-      {
-        name: "Next",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Tailwind css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: dateme,
-    source_code_link: "",
-    live_demo_link: "https://hospitalmanagementadmindashboard.vercel.app/",
-  },
+ 
   {
     name: "E-Shop",
     description:
@@ -203,6 +183,50 @@ const projects = [
     image: mikeshop,
     source_code_link: "",
     live_demo_link: "https://just-electronics.onrender.com/",
+  },
+  {
+    name: "FitPulse",
+    description:
+      "FitPulse is a a modern UI/UX gym website where clients can book sessions, chat real time with admin or gym instructors and also choose type of services they want.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image:fitpulse,
+    source_code_link: "",
+    live_demo_link: "https://myfitnesspulse.vercel.app/",
+  },
+  {
+    name: "Orient",
+    description:
+      "Orient is a healthcare  management system where appointments with doctors and other healthcare personnels could me made.",
+    tags: [
+      {
+        name: "Next",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Typescript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: orient,
+    source_code_link: "",
+    live_demo_link: "https://hospitalmanagementadmindashboard.vercel.app/",
   },
 ];
 

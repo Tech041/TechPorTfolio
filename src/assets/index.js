@@ -29,8 +29,9 @@ import onet from "./company/onetlogo.png";
 import olliepickett from "./company/olliepickett.png";
 import starlight from "./company/starlight.png";
 
-import dateme from "./dateme.png";
+import orient from "./orient.png";
 import mikeshop from "./mike.png";
+import fitpulse from "./fitpulse.png";
 import mikecollection from "./mcollection.png";
 
 import josh from "./josh.jpg";
@@ -50,6 +51,7 @@ export {
   docker,
   figma,
   git,
+  orient,
   html,
   javascript,
   mongodb,
@@ -65,7 +67,8 @@ export {
   mimi,
   onet,
   starlight,
-  dateme,
+  fitpulse,
+  
   mikeshop,
   mikecollection,
   josh,
