@@ -18,6 +18,7 @@ import {
   docker,
   orient,
   mikeshop,
+  geoapp,
   threejs,
   avatar,
 } from "../assets";
@@ -205,6 +206,28 @@ const projects = [
     image:fitpulse,
     source_code_link: "",
     live_demo_link: "https://myfitnesspulse.vercel.app/",
+  },
+  {
+    name: "GEO-APP",
+    description:
+      "GEO-APP is a weather app built to facilitate geographical data monitoring among pilots, sailors and travellers in general.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Open weather API",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: geoapp,
+    source_code_link: "",
+    live_demo_link: "https://geoweatherapp.vercel.app/",
   },
   {
     name: "Orient",

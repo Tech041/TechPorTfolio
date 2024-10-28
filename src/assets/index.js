@@ -32,6 +32,8 @@ import starlight from "./company/starlight.png";
 import orient from "./orient.png";
 import mikeshop from "./mike.png";
 import fitpulse from "./fitpulse.png";
+import geoapp from "./geoapp.png";
+
 import mikecollection from "./mcollection.png";
 
 import josh from "./josh.jpg";
@@ -68,7 +70,7 @@ export {
   onet,
   starlight,
   fitpulse,
-  
+  geoapp,
   mikeshop,
   mikecollection,
   josh,
