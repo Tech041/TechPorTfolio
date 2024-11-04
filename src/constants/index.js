@@ -16,7 +16,7 @@ import {
   fitpulse,
   figma,
   docker,
-  orient,
+  ai_clinic,
   mikeshop,
   geoapp,
   threejs,
@@ -207,6 +207,29 @@ const projects = [
     source_code_link: "",
     live_demo_link: "https://myfitnesspulse.vercel.app/",
   },
+
+  {
+    name: "MedSpark",
+    description:
+      "This is a SaaS project, where clients can seek automated health care support at the comfort of their homes using their devices.The applications performs diagnosis with prevailing symptoms, recommends quick treatment plans and other automated health tasks.",
+    tags: [
+      {
+        name: "React",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Javascript",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Tailwind css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: ai_clinic,
+    source_code_link: "",
+    live_demo_link: "https://medsparkautoclinic.vercel.app/",
+  },
   {
     name: "GEO-APP",
     description:
@@ -229,28 +252,7 @@ const projects = [
     source_code_link: "",
     live_demo_link: "https://geoweatherapp.vercel.app/",
   },
-  {
-    name: "Orient",
-    description:
-      "Orient is a healthcare  management system where appointments with doctors and other healthcare personnels could me made.",
-    tags: [
-      {
-        name: "Next",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Tailwind css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: orient,
-    source_code_link: "",
-    live_demo_link: "https://hospitalmanagementadmindashboard.vercel.app/",
-  },
+  
 ];
 
 export { services, technologies, experiences, testimonials, projects };

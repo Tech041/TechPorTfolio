@@ -28,11 +28,13 @@ import tesla from "./company/tesla.png";
 import onet from "./company/onetlogo.png";
 import olliepickett from "./company/olliepickett.png";
 import starlight from "./company/starlight.png";
-
+//  vercel projects
 import orient from "./orient.png";
 import mikeshop from "./mike.png";
 import fitpulse from "./fitpulse.png";
 import geoapp from "./geoapp.png";
+import ai_clinic from "./ai_clinic.png";
+
 
 import mikecollection from "./mcollection.png";
 
@@ -71,6 +73,7 @@ export {
   starlight,
   fitpulse,
   geoapp,
+  ai_clinic,
   mikeshop,
   mikecollection,
   josh,
