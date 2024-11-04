@@ -211,7 +211,7 @@ const projects = [
   {
     name: "MedSpark",
     description:
-      "This is a SaaS project, where clients can seek automated health care support at the comfort of their homes using their devices.The applications performs diagnosis with prevailing symptoms, recommends quick treatment plans and other automated health tasks.",
+      "This is a SaaS project, where clients can seek automated health care support at the comfort of their homes using their devices.The applications perform diagnosis with prevailing symptoms, recommends quick treatment plans and other automated health tasks.",
     tags: [
       {
         name: "React",
