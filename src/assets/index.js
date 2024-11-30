@@ -34,6 +34,7 @@ import mikeshop from "./mike.png";
 import fitpulse from "./fitpulse.png";
 import geoapp from "./geoapp.png";
 import ai_clinic from "./ai_clinic.png";
+import fashionfix from './fashionfix.png'
 
 
 import mikecollection from "./mcollection.png";
@@ -75,6 +76,7 @@ export {
   geoapp,
   ai_clinic,
   mikeshop,
+  fashionfix,
   mikecollection,
   josh,
   olliepickett,

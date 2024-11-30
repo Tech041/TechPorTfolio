@@ -1,3 +1,4 @@
+import { Color } from "three";
 import {
   mobile,
   backend,
@@ -21,6 +22,7 @@ import {
   geoapp,
   threejs,
   avatar,
+  fashionfix,
 } from "../assets";
 
 export const navLinks = [
@@ -158,7 +160,6 @@ const testimonials = [
 ];
 
 const projects = [
- 
   {
     name: "E-Shop",
     description:
@@ -203,7 +204,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image:fitpulse,
+    image: fitpulse,
     source_code_link: "",
     live_demo_link: "https://myfitnesspulse.vercel.app/",
   },
@@ -231,9 +232,9 @@ const projects = [
     live_demo_link: "https://medsparkautoclinic.vercel.app/",
   },
   {
-    name: "GEO-APP",
+    name: "FashionFix",
     description:
-      "GEO-APP is a weather app built to facilitate geographical data monitoring among pilots, sailors and travellers in general.",
+      "FashionFix: Your one-stop online shop for trendy and timeless unisex fashion. From stylish men's and women's clothing to adorable and durable kids' wear, FashionFix offers a curated collection for all ages and preferences.",
     tags: [
       {
         name: "React",
@@ -244,15 +245,15 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Open weather API",
-        color: "pink-text-gradient",
-      },
+        name:'Tailwind CSS',
+        color: "green-text-gradient",
+        
+      }
     ],
-    image: geoapp,
+    image: fashionfix,
     source_code_link: "",
-    live_demo_link: "https://geoweatherapp.vercel.app/",
+    // live_demo_link: "https://geoweatherapp.vercel.app/",
   },
-  
 ];
 
 export { services, technologies, experiences, testimonials, projects };
