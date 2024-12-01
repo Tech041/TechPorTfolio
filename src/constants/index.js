@@ -120,7 +120,7 @@ const experiences = [
     company_name: "Fiverr (Freelancing)",
     icon: "",
     iconBg: "#E6DEDD",
-    date: "Aug 2022 - Present",
+    date: "Aug 2018 - Present",
     points: [
       "Collaborated with UX/UI designers to translate design mockups into pixel-perfect, responsive interfaces, ensuring a consistent and visually appealing user experience across devices.",
       "Implemented server-side rendering (SSR) and static site generation (SSG) using Next.js, enhancing the application's performance and SEO capabilities",
@@ -132,7 +132,7 @@ const experiences = [
     company_name: "Upwork (Freelancing)",
     icon: "",
     iconBg: "#383E56",
-    date: "Dec 2022 - Present",
+    date: "Dec 2018 - Present",
     points: [
       "Developed and maintained various modules of a complex web application, employing React.js/Next.js and TypeScript for the frontend and consumed .Net, Django, Spring Boot and REST APIs  ",
       "Integrated third-party APIs and services to extend application functionalities, improving the overall user experience. ",
@@ -234,7 +234,7 @@ const projects = [
   {
     name: "FashionFix",
     description:
-      "FashionFix: Your one-stop online shop for trendy and timeless unisex fashion. From stylish men's and women's clothing to adorable and durable kids' wear, FashionFix offers a curated collection for all ages and preferences.",
+      "FashionFix: Your e-commerce shop for trendy and timeless unisex fashion. From stylish men's and women's clothing to adorable and durable kids' wear, FashionFix offers a curated collection for all ages and preferences.",
     tags: [
       {
         name: "React",
@@ -245,14 +245,13 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name:'Tailwind CSS',
+        name: "Tailwind CSS",
         color: "green-text-gradient",
-        
-      }
+      },
     ],
     image: fashionfix,
     source_code_link: "",
-    // live_demo_link: "https://geoweatherapp.vercel.app/",
+    live_demo_link: "https://fashionfix.vercel.app/",
   },
 ];
 
