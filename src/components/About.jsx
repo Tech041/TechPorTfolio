@@ -40,7 +40,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I&apos;m a front end software developer with experience in
-        JavaScript,TypeScript and expertise in frameworks and library such as
+        JavaScript,TypeScript and expertise in frameworks and libraries such as
         React, Nextjs, Node.js,Express .js, Three.js, Tailwind css and Bootstrap. I
         also use Redux toolkit and Context api for global state management,
         React query for server state management. I also use Git & Github daily
