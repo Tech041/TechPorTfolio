@@ -39,14 +39,14 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a creative and skilled software developer with experience in
-        JavaScript and TypeScript, and expertise in frameworks and library such
-        as React, Nextjs, Node.js, Three.js, Tailwind css, Bootstrap. I also use
-        Redux toolkit and Context api for global state management, React query
-        for server state management. I also have good knowledge of Git & Github
-        cause i use Git daily to track code changes and to collaborate with
-        other developers on Github. I'm a fast learner and i always work closely
-        with clients to create scalable and user-friendly applications. Let's
+        I&apos;m a front end software developer with experience in
+        JavaScript,TypeScript and expertise in frameworks and library such as
+        React, Nextjs, Node.js,Express .js, Three.js, Tailwind css and Bootstrap. I
+        also use Redux toolkit and Context api for global state management,
+        React query for server state management. I also use Git & Github daily
+        to track code changes and to collaborate with other developers
+        respectively. I&apos;m a fast learner and I always work closely with
+        clients to create scalable, high performant,maintainable and user-friendly applications. Let&apos;s
         work together to bring your ideas to reality!
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
